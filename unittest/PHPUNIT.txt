@@ -1,0 +1,16 @@
+How to mock authentication user on unit test in Laravel?
+https://medium.com/yish/how-to-mock-authentication-user-on-unit-test-in-laravel-1441d491d82c
+
+https://github.com/tymondesigns/jwt-auth/issues/694
+
+How to Write Test Cases for Login Page
+https://w3lessons.info/a-lesson-on-testing-login-page-example/
+
+Understanding PHPUnit and How to write Unit test cases (중요)
+https://www.valuebound.com/resources/blog/understanding-phpunit-and-how-to-write-unit-test-cases
+
+phpunit 시작하기
+https://riptutorial.com/ko/phpunit/topic/3268/phpunit-시작하기
+
+PHPUNIT 시작하기
+https://riptutorial.com/ko/phpunit
